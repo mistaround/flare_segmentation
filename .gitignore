@@ -1,0 +1,7 @@
+.venv/
+.venv-tf/
+third_party/
+data/
+outputs/
+__pycache__/
+*.pyc
